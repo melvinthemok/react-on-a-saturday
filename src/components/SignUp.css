@@ -1,0 +1,43 @@
+.SignUp {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 3rem 0;
+  padding: 1rem;
+  max-width: 60%;
+  border: 1px solid #778899;
+}
+
+.SignUp h2 {
+  margin: 1rem 3rem;
+  text-align: center;
+}
+
+.SignUp p {
+  margin: 1rem 0;
+}
+
+.SignUp input {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1rem;
+  color: #778899;
+  border: 1px solid #778899;
+  border-radius: 2px;
+  padding: 0.2rem;
+}
+
+.SignUp button {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1rem;
+  color: #778899;
+  border: 1px solid #778899;
+  border-radius: 5px;
+  margin: 1rem;
+  padding: 0.5rem;
+  cursor: pointer;
+}
+
+.SignUp button:hover {
+  background-color: #778899;
+  color: #ffffff;
+}

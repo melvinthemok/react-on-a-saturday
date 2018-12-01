@@ -1,0 +1,10 @@
+.HeaderItem {
+  border-radius: 5px;
+  padding: 0.5rem;
+  color: #778899;
+}
+
+.HeaderItem:hover {
+  background-color: #778899;
+  color: #ffffff;
+}
